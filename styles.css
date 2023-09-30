@@ -1,0 +1,71 @@
+h3 {
+  font-style: italic;
+  position: relative;
+  left: 760px;
+  bottom: 50px;
+}
+table {
+  width: 1100px;
+  height:550px;
+bottom: 50px;
+  position: relative;
+  left: 300px;
+}
+th {
+  text-align: left;
+  text-align: center;
+  padding: 20px;
+  font-size:16px;
+}
+td {
+  padding: 20px;
+}
+table,
+th,
+td {
+  border-collapse: collapse;
+}
+tr:nth-child(even) {
+  background-color: #fff;
+}
+tr:nth-child(odd) {
+  background-color: #ddd;
+}
+tr:nth-child(1) {
+  background-color: red;
+}
+.lunch {
+  text-orientation: upright;
+  writing-mode: vertical-lr;
+  text-align: center;
+}
+body {
+  background-color: bisque;
+}
+.student {
+  position: relative;
+  left: 1310px;
+  bottom: 80px;
+  color: red;
+  width: 5px;
+}
+.Courses {
+  position: relative;
+  left: 1400px;
+  bottom: 119px;
+  color: red;
+  width: 5px;
+}
+.contact {
+  width: 30px;
+  bottom: 30px;
+  position: relative;
+  left: 915px;
+}
+.day {
+  color: white;
+}
+.image{
+  position: relative;
+  left: 150px;
+}
